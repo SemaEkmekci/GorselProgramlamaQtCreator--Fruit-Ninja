@@ -1,1 +1,2 @@
 # GorselProgramlamaQtCreator
+![Uploading image.png…]()
